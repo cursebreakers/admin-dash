@@ -77,6 +77,22 @@ h4 {
     max-height: 6vh;
 }
 
+#mag {
+    background-color: antiquewhite;
+    max-height: 4vh;
+    border-radius: 50%;
+}
+
+.search {
+    display: flex;
+    padding: 4px;
+    border-radius: 15%;
+}
+
+#srcbar {
+    border-radius: 5px;
+}
+
 #notes {
     max-height: 4vh;
     background-color: antiquewhite;
